@@ -1,5 +1,7 @@
 # sealed
-an abstract contract which you can "seal"
+a contract which you can "seal"
+
+this is convenient for when you wish to disable particular functions after a certain point, but would still like to keep the ownership of the contract via Ownable.
 
 ## example
 ```solidity
