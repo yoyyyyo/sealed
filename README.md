@@ -1,4 +1,7 @@
 # sealed
+[npm](https://www.npmjs.com/package/@yoyyyyo/sealed) - [github](https://github.com/yoyyyyo/sealed)
+
+
 a contract which you can "seal"
 
 this is convenient for when you wish to disable particular functions after a certain point, but would still like to keep the ownership of the contract via Ownable.
